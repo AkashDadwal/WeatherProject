@@ -1,7 +1,8 @@
 
 # WeatherApp
 
-Django weatherApp using OpenWeatherMap API. Get weather information of city (like pressure, humidity, temperature and Forcast etc)
+
+WeatherApp using Django and Bootstrap which uses OpenWeatherMap API. Get weather information of city (like pressure, humidity, temperature and Forcast etc)
 
 
 ## Screenshots
